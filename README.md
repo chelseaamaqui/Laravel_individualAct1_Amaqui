@@ -1,0 +1,1 @@
+# Laravel_individualAct1_Amaqui
